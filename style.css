@@ -1,3 +1,50 @@
-h1, p {
-  font-family: Lato;
+
+.container>div{
+  color: #ffeeffcb;
+  font-family: 'Roboto', sans-serif;
+  position: absolute;
+  letter-spacing: 0.14px;
+  background: #22182b;
+}
+
+.container{
+  width: 500px;
+}
+
+.time{
+  background: #3f1e65!important;
+  top: 37px;
+  left: 80px;
+  font-size: 9.5px;
+}
+
+.ammount-1{
+  top: 126.3px;
+  left: 455px;
+  font-size: 13px;
+}
+.ammount-2{
+  top: 345.3px;
+  left: 455px;
+  font-size: 13px;
+}
+
+.message{
+  top: 245px;
+  left: 32.5px;
+  font-size: 10.5px;
+  letter-spacing: 0.25px!important;
+}
+
+.transaction-id{
+  top: 291px;
+  left: 32.5px;
+  font-size: 10.5px;
+}
+
+.UTR{
+  top: 373.3px;
+  left: 88.5px;
+  font-size: 10.5px;
+  letter-spacing: 0.2px!important;
 }
